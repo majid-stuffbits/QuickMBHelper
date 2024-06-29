@@ -27,3 +27,5 @@ QuickMBHelper is a Python script designed to automate the process of updating th
 - `registermap.xlsx`: Sample Excel file containing register map data (modify as needed).
 - `modbus_slave_user.c`: Sample C code file to be updated (modify as needed).
 
+## BUGS/FEATURES TO BE FIXED
+error checking for all addressing , non numerical values
